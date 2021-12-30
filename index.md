@@ -18,6 +18,9 @@ My area of focus is on NLP and its applied usages.
 - Java Spring Boot 2.x, Spring Security
 - Python 3.x
 - NLP : Spacy, RASA Framework
+- Scrum Certified Practioner
+- Kanban Certified Associate
+- Lean Certified Associate
 
 ## Additional Skills
 - Ontology & Knowledge Graphs
