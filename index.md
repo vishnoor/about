@@ -1,123 +1,28 @@
 ---
 layout: default
 ---
+# Vishnoo Rath
+An experienced IT technologist with over 22+ years of professional experience.
+I have worked with Microsoft technologies and since the last 5 years is involved in Java and Open Source Technologies.
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+My involvement in IT ranges from Developemt, Performance testing, Pre-Sales, Solution Engineering. In my current role
+I lead a small team of engineers in re-engineering an inhouse knowledge management software.
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+I am an avid learner and am now getting into the field of Artifical Intelligence using Machine Learninig. 
+My area of focus is on NLP and its applied usages.
 
 
-### Definition lists can be used with HTML syntax.
+## Key Skills
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+- Microsoft .Net 4.5, ASP.Net
+- Java Spring Boot 2.x, Spring Security
+- Python 3.x
+- NLP : Spacy, RASA Framework
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+## Additional Skills
+- Ontology & Knowledge Graphs
+- GraphQL (Apollo Graph, Haskura)
+- GraphDB (Neo4J, Tiger Graph)
+- Chaos Engineering (Gremlin)
+- AWS Cloud Practioner
+- IBM Cloud Practioner
