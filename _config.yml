@@ -1,6 +1,6 @@
 title: Vishnoo Rath
 logo: /assets/img/logo.png
 description: Online Resume of Vishnoo Rath
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
